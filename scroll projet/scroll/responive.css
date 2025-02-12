@@ -1,0 +1,29 @@
+@media screen and (max-width:750px) {
+  .nav-links{
+    display: none;
+    
+  }
+  .nav-links.active{
+    display: block;
+  }
+  .nav-links ul{
+    display: block;
+    position: fixed;
+    top: 85px;
+    right: 30px;
+    height: auto;
+    min-width: 100px;
+    background: #ccc;
+    padding: 20px 35px;
+    border-radius: 12px;
+    text-align: center;
+
+  }
+  .nav-links ul li a{
+    color: darkblue;
+  }
+  .store{
+    display: block;
+    cursor: pointer;
+  }
+}

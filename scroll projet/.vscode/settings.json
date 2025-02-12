@@ -1,0 +1,10 @@
+{
+  "editor.tabFocusMode": false,
+  "auto-rename-tag.activationOnLanguage": [
+    
+    "*"
+  ],
+  "workbench.editor.wrapTabs": false,
+  "liveServer.settings.port": 5502,
+  "git.ignoreLimitWarning": true
+}
